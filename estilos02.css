@@ -1,0 +1,31 @@
+#cuerpo {
+    background-color: black;
+}
+
+#menu {
+    list-style-type: none;
+}
+
+#menu a {
+    color: white;
+    background-color: blue;
+}
+
+#menu a:hover {
+    background-color: black;
+}
+
+footer {
+    text-align: center;
+}
+
+#contenedor {
+    width: 100%;
+}
+
+header {
+    height: 200px;
+    background-image: url(cabecera.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+}
